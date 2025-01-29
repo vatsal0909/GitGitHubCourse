@@ -4,4 +4,7 @@ git add .
 git commit -m"message"
 git log
 git push origin main
-
+git branch branchname
+git switch branchname
+git merge
+git checkout
