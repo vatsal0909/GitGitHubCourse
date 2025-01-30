@@ -1,1 +1,0 @@
-helloo this is error file which ruins our code so i want to get back to old commit state
